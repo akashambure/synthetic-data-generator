@@ -15,7 +15,6 @@ To set up the project environment, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/akashambure/synthetic-data-generator.git
-   cd SyntheticDataGenerator
    ```
 
 2. Install the required libraries:
